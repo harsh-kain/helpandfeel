@@ -268,7 +268,7 @@
     position: relative;
     z-index: 100;
 }
-.las{
+.serviceIcon{
     font-size: 5rem;
     padding: 30px 0px;
     background-color: #09cc7f;
@@ -298,13 +298,13 @@
     z-index: -1;
     height: 100%;
 }
-.cards:hover .las{
+.cards:hover .serviceIcon{
     background-color: #ffffff;
     color: black;
 
 }
 @media screen and (max-width:1000px) {
-    .las{
+    .serviceIcon{
         font-size: 4.5rem;
         padding: 25px 0px;
         padding: 10px;
